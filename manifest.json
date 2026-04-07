@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0",
+  "action": "update",
+  "download_url": "https://raw.githubusercontent.com/<ORG>/<REPO>/main/Raw%20Minute%20Counter%20Updatable.exe",
+  "sha256": "PUT_REAL_SHA256_HERE"
+}
