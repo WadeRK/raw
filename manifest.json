@@ -1,7 +1,7 @@
 {
   "version": "disable",
   "action": "disable",
-  "message": "Temporarily disabled for maintenance. Try again tomorrow."
+  "message": ""
   "download_url": "https://raw.githubusercontent.com/<ORG>/<REPO>/main/Raw%20Minute%20Counter%20Updatable.exe",
   "sha256": "36FB031AE0154DB0F381117BD9C0CA9D3F2AF88DFB35999550A322C19741D787"
 }
