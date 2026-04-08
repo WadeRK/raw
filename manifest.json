@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "action": "update",
+  "action": "disable",
   "message": "Updating..."
   "download_url": "https://raw.githubusercontent.com/WadeRK/raw/main/Raw%20Minute%20Counter.exe"
 }
